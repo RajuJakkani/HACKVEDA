@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: aliceblue ;
+    /* display: flex; */
+    position: absolute;
+    left: 30em;
+    align-items: center;
+    top: 10em;
+    border: 2px solid;
+    margin: 20x;
+    padding: 30px;
+    
+}
